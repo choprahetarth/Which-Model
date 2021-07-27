@@ -1,5 +1,6 @@
 # Which-Model
 A Code Along Repository for the blog "Get out of the "Which Model?" mental block" published on Medium.
+Story Link - https://medium.com/geekculture/get-out-of-the-which-model-mental-block-b68c41d32667
 
 ## Language Used
 * Python
